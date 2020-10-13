@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteAppUI", "NoteAppUI\NoteAppUI.csproj", "{643E6977-CC7E-46F8-A676-0AB72784E390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{643E6977-CC7E-46F8-A676-0AB72784E390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643E6977-CC7E-46F8-A676-0AB72784E390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643E6977-CC7E-46F8-A676-0AB72784E390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643E6977-CC7E-46F8-A676-0AB72784E390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB3FA474-B06A-4646-9092-5600A7001122}
+	EndGlobalSection
+EndGlobal
