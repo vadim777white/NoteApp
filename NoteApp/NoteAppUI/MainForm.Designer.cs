@@ -1,4 +1,5 @@
-﻿namespace NoteAppUI
+﻿using NoteApp;// строчка для теста
+namespace NoteAppUI
 {
     partial class Form1
     {
